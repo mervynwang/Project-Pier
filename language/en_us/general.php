@@ -68,7 +68,6 @@
     'description' => 'Description',
     'text' => 'Text',
     'additional text' => 'Additional text',
-    'date' => 'Date',
     'due date' => 'Due date',
     'no due date' => 'No due date',
     'start date' => 'Start date',

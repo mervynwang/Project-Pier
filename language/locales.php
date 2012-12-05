@@ -1,5 +1,5 @@
 <?php
- 
+
 $locales = array(
   'bg_bg' => 'Bulgarian (Bulgaria)',
   'cz_cz' => 'Czech',
@@ -28,6 +28,7 @@ $locales = array(
   'tr_tr' => 'Turkish (Turkey)',
   'vn_vn' => 'Vietnamese',
   'zh_cn' => 'Simplified Chinese (China)',
+  'zh_tw' => '正體中文 (Taiwan)',
 );
 
 ?>
